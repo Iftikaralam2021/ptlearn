@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ptlearn"
+  site-url: "https://Iftikaralam2021.github.io/ptlearn"
+  description: "pytorch2 & pytorch lightning playground"
+  repo-branch: main
+  repo-url: "https://github.com/Iftikaralam2021/ptlearn"
